@@ -1,1 +1,1 @@
-# Welcome to secton 2 of Part I
+# Welcome to section 2 of Part I
