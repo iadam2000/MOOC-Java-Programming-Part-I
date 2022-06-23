@@ -1,5 +1,5 @@
 # Java programming Part I MOOC
 
-Welcome to my solutions.
-For Part I, there are 7 seperate sections - each section containing several exercises.
-I split up the exercises into folders accordingly.
+Hello, welcome to my solutions for MOOC Java Programming.
+This is the course I used to learn Java. It contains 14 sepereate parts, each part containing several exercises.
+I have split the files up into folders accordingly.
